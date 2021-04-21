@@ -5,11 +5,10 @@ background-color: crimson;
 h1{
 	text-decoration: underline;
     text-decoration-color: black;
-    box-shadow: black -10px 15px;
     text-decoration-style: solid;
     background-color: white;
 	text-align: center;
-	color: black;
+	color: white;
 }
 
 .Text{
