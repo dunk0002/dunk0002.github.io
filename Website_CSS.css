@@ -22,18 +22,6 @@ h1{
     text-align: center;
 }
 
-.Text2{
-	margin: 25px;
-    padding: 20px;
-    background-color: white;
-    display: block;
-    text-decoration: none;
-    color: black;
-    border-radius: 20px;
-    text-align: center;
-	float: right;
-}
-
 ul{
 	list-style-type: none;
 	margin: 0;
