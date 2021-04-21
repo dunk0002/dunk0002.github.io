@@ -14,14 +14,14 @@ h1{
 	width: 25%;
 }
 
-ul {
+ul{
 	list-style-type: none;
 	margin: 0;
 	height: 300px;
 	float: bottom;
 }
 
-li a {
+li a{
 	margin: 25px;
 	background-color: white;
 	display: block;
