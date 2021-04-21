@@ -14,3 +14,15 @@ h1{
 	width: 50%;
 	float: left;
 }
+
+li a {
+	margin: 25px;
+	padding: 20px;
+	background-color: white;
+	display: block;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+	border-radius: 25px;
+	text-align: center;
+}
