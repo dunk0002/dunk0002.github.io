@@ -24,8 +24,10 @@ ul{
 li a{
 	margin: 25px;
 	background-color: white;
+	display: block;
 	text-transform: uppercase;
 	text-decoration: none;
+	border-radius: 20px;
 	color: black;
 	text-align: center;
 }
