@@ -3,10 +3,12 @@ background-color: crimson;
 }
 
 h1{
+	text-decoration: underline;
+    text-decoration-color: black;
+    box-shadow: black -10px 15px;
+    text-decoration-style: solid;
+    background-color: white;
 	text-align: center;
-	font-size: 300%;
-	box-shadow: black -10 px 15 px;
-	color: white;
 }
 
 .Text{
