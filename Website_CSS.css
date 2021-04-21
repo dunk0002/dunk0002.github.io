@@ -17,11 +17,9 @@ h1{
 li a{
 	margin: 25px;
 	background-color: white;
-	display: block;
 	text-transform: uppercase;
 	text-decoration: none;
 	color: black;
-	border-radius: 25px;
 	text-align: center;
 }
 
