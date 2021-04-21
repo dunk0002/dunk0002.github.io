@@ -4,7 +4,9 @@ background-color: crimson;
 
 h1{
 	text-align: center;
-	font-size: 200%;
+	font-size: 300%;
+	box-shadow: white -10 px 15 px;
+	background-color: white;
 }
 
 .Text{
