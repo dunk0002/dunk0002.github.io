@@ -21,6 +21,18 @@ h1{
 	float: left;
 }
 
+.Text2{
+	background-color: white;
+	height: 500 px;
+	width: 25%;
+	margin: 25px;
+	display: block;
+	border-radius: 20px;
+	color: black;
+	text-align: center;
+	float: right;
+}
+
 ul{
 	list-style-type: none;
 	margin: 0;
