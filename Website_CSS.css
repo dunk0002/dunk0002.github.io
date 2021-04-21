@@ -10,9 +10,17 @@ h1{
 }
 
 .Text{
-	background-color: black;
+	background-color: white;
 	height: 500 px;
 	width: 25%;
+	margin: 25px;
+	background-color: black;
+	display: block;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 20px;
+	color: black;
+	text-align: center;
 }
 
 ul{
