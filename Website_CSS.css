@@ -19,7 +19,6 @@ h1{
     display: block;
     color: black;
     border-radius: 20px;
-    text-align: center;
 }
 
 ul{
@@ -39,5 +38,9 @@ li a{
 	color: black;
 	text-align: center;
 	float: bottom;
+}
+
+h2{
+	text-align:center;
 }
 
